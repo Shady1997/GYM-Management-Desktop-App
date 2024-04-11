@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58a7f946-27ce-4d33-9687-066a71916ec2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/all_enums/AccessLevel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/all_enums/CustomerOrEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/all_enums/EmployeeDesignation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/all_enums/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/all_enums/TimingSlot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/backend_functions/CustomDate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/backend_functions/Email.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/backend_functions/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/backend_functions/Password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/backend_functions/Username.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/ResizeHelper/FXResizeHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/ResizeHelper/ResizeHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/AccontSettingsPanel_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/AddEmployeeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/BMIViewPanel_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/Changefxml.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/CreateQuery_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/CustomMenuButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/CustomerDashboardPanel_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/CustomerPanel_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/CustomerQueriesFormPanel_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/DashboardPanel_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/EmployeeSideDashboard_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/EmployeeSidePanel_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/EmployeesDetailCard_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/EmployeesPanel_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/EquipmentsPanel_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/Explore_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/FAQPanel_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/FAQ_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/ForgetPassword_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/GeneralFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/LoadingScreen_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/LogIn_Form_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/LoginSignUp_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/Main_Interface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/MembersDetailCard_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/MembersPanelEmployeeSide_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/MembersPanel_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/QueriesPanel_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/QueriesReply_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/QueryMenuButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/QueryView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/RevenuePanel_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/RevenueTable_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/SignUp_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/StatusActivePopup_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/TransactionsPanel_Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/example/gym_desktop_app/VPopUpController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/com/gluonhq/charm/glisten/control/ToggleButtonGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/database/DatabaseFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/model_class/BMI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/model_class/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/model_class/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/model_class/Expense.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/model_class/Package.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/model_class/Package1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/model_class/Package2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/model_class/Package3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/model_class/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/model_class/Queries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/model_class/Revenue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/model_class/Stock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/model_class/Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/AccountSettingsPanel.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/AddEmployee.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/AddExpense.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/AdminLoginForm.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/AdminPanel.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BMIViewPanel.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/AccountSettings.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/BB.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/CYCLE.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/CircularImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/DUMBELL.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/Dashboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/Employees.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/Equipments.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/Frame 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/Free Weight 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/Free Weight.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/LogOut.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/Machine 2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/Machine 3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/Members.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/Memberships.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/Menubar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/Queries.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/Revenue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/TM.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/align-justify.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/c.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/cable.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/ec.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/fw.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/icons8-add-male-user-group-96 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/icons8-close-32 (1).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/icons8-edit-96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/icons8-maximize-button-48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/icons8-minimize-window-16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/icons8-plus-96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/icons8-questions-96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/icons8-search-128(-xxxhdpi).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/icons8-search-512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/icons8-subtract-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/icons8-transaction-96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/icons8-update-left-rotation-128(-xxxhdpi).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/icons8-weight-96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/mach.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/machii.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/machineee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/BorderIcons/machineeeee.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/CSS/Background.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/CSS/DashboardPanel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/CSS/LoadingScreen.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/CSS/Login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/CSS/LoginSignUp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/CSS/Main_App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/CSS/Main_Images/Beginner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/CSS/Main_Images/Explore.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/CSS/Main_Images/Pro.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/CSS/Main_Images/Starter.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/CSS/Main_Images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/CSS/QueryPanel.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/CSS/SignUp.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/CSS/pop_up.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/CreateQuery.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/CustomerDashboardPanel.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/CustomerPanel.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/CustomerQueriesFormPanel.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/DashboardPanel.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Database/GYM-Database.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/EmployeeSideDashboard.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/EmployeeSidePanel.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Employees.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/EquipmentsPanel.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Explore.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/FAQPanel.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/AdminLogin.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/CloseIcon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/Mask group.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/WAIT.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/account_Setting.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/bodybuilder-training-arm-with-resistance-band 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/daniel-apodaca-WdoQio6HPVA-unsplash 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/daniel-apodaca-WdoQio6HPVA-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/dashboard.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/edgar-chaparro-sHfo3WOgGTU-unsplash.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/employees.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/equipments.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/giphy.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/go-back-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/icons8-close-window-96.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/icons8-go-back-30.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/icons8-sign-mail-128(-xxxhdpi).png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/logout.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/members.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/memberships.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/navbar.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/queries.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/revenue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Images/spencer-davis-0ShTs8iPY28-unsplash 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/LoadingScreen.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/LoginSignUp.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/Main_Dashboard.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/MemberLogin_Form.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/MembersPanel.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/MembersPanel_EmployeeSide.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/PasswordReset_Verification.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/QueriesPanel.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/QueryReplyForm.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/RevenuePanel.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/RevenueTable.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/SendCodeToEmail.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/SetNewCustomerPassword.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/SetNewEmployeePassword.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/SignUp.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/SignUp_Done_Info.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/SignUp_Payment_Info.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/SignUp_Personal_Info.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/SignUp_Prompt.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/TransactionPanel.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/ViewQuery.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/employeesDetailCard.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/membersDetailCard.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GYM-Management-System/src/main/resources/com/example/gym_desktop_app/statusActive_popup.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/screenshot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/commons-codec-1.15.jar" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/SemesterProject_2022/src/main/java/database/DatabaseFunctions.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2JIcsuJfEjeGITzOO21lDOhti8e" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.com.example.gym_desktop_app.Main.executor": "Run",
+    "Maven.GYM-Management-System [clean].executor": "Run",
+    "Maven.GYM-Management-System [verify].executor": "Run",
+    "Maven.SemesterProject_2022 [clean].executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/g525585/IdeaProjects/GYM",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "inlay.hints"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.com.example.gym_desktop_app.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.semesterProject_2022.Main" />
+      <module name="SemesterProject_2022" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.semesterProject_2022.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.example.gym_desktop_app.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.gym_desktop_app.Main" />
+      <module name="GYM-Management-System" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.gym_desktop_app.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.com.example.gym_desktop_app.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-corretto-11.0.22-4caba194b151-868cef46" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58a7f946-27ce-4d33-9687-066a71916ec2" name="Changes" comment="" />
+      <created>1671769248022</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671769248022</updated>
+      <workItem from="1671769249593" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassNotFoundException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
